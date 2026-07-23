@@ -1,0 +1,1770 @@
+[
+  {
+    "id": 1,
+    "topic": "Child Development & Pedagogy",
+    "question": "जीन पियाजे के अनुसार संज्ञानात्मक विकास की कौन-सी अवस्था 2 से 7 वर्ष तक होती है?",
+    "options": [
+      "संवेदी-गामक",
+      "पूर्व-संक्रियात्मक",
+      "मूर्त संक्रियात्मक",
+      "औपचारिक संक्रियात्मक"
+    ],
+    "answer": 1,
+    "explanation": "पूर्व-संक्रियात्मक"
+  },
+  {
+    "id": 2,
+    "topic": "Child Development & Pedagogy",
+    "question": "वाइगोत्स्की के सिद्धांत में \"समीपस्थ विकास का क्षेत्र\" (ZPD) का संबंध किससे है?",
+    "options": [
+      "आनुवंशिकता",
+      "सामाजिक अंतःक्रिया द्वारा सीखने की संभावित सीमा",
+      "स्मृति",
+      "प्रेरणा"
+    ],
+    "answer": 1,
+    "explanation": "सामाजिक अंतःक्रिया द्वारा सीखने की संभावित सीमा"
+  },
+  {
+    "id": 3,
+    "topic": "Child Development & Pedagogy",
+    "question": "कोहलबर्ग का सिद्धांत किससे संबंधित है?",
+    "options": [
+      "संज्ञानात्मक विकास",
+      "नैतिक विकास",
+      "भाषा विकास",
+      "शारीरिक विकास"
+    ],
+    "answer": 1,
+    "explanation": "नैतिक विकास"
+  },
+  {
+    "id": 4,
+    "topic": "Child Development & Pedagogy",
+    "question": "हावर्ड गार्डनर के \"बहु-बुद्धि सिद्धांत\" में कुल कितने प्रकार की बुद्धियाँ बताई गई हैं?",
+    "options": [
+      "5",
+      "7",
+      "8-9",
+      "12"
+    ],
+    "answer": 2,
+    "explanation": "8-9"
+  },
+  {
+    "id": 5,
+    "topic": "Child Development & Pedagogy",
+    "question": "\"सीखना अनुभव द्वारा व्यवहार में अपेक्षाकृत स्थायी परिवर्तन है\" — यह परिभाषा किसकी है?",
+    "options": [
+      "स्किनर",
+      "गेट्स",
+      "थार्नडाइक",
+      "पावलव"
+    ],
+    "answer": 1,
+    "explanation": "गेट्स"
+  },
+  {
+    "id": 6,
+    "topic": "Child Development & Pedagogy",
+    "question": "शास्त्रीय अनुबंधन सिद्धांत (Classical Conditioning) के प्रवर्तक कौन हैं?",
+    "options": [
+      "स्किनर",
+      "पावलव",
+      "थार्नडाइक",
+      "कोहलर"
+    ],
+    "answer": 1,
+    "explanation": "पावलव"
+  },
+  {
+    "id": 7,
+    "topic": "Child Development & Pedagogy",
+    "question": "\"प्रयास और त्रुटि सिद्धांत\" (Trial and Error) किसने प्रस्तुत किया?",
+    "options": [
+      "थार्नडाइक",
+      "पावलव",
+      "वाटसन",
+      "मैस्लो"
+    ],
+    "answer": 0,
+    "explanation": "थार्नडाइक"
+  },
+  {
+    "id": 8,
+    "topic": "Child Development & Pedagogy",
+    "question": "सक्रिय अनुबंधन (Operant Conditioning) सिद्धांत के जनक कौन हैं?",
+    "options": [
+      "बी.एफ. स्किनर",
+      "आइवन पावलव",
+      "कर्ट लेविन",
+      "जीन पियाजे"
+    ],
+    "answer": 0,
+    "explanation": "बी.एफ. स्किनर"
+  },
+  {
+    "id": 9,
+    "topic": "Child Development & Pedagogy",
+    "question": "मैस्लो के आवश्यकता पदानुक्रम में सबसे ऊपर कौन-सी आवश्यकता है?",
+    "options": [
+      "सुरक्षा",
+      "आत्म-सम्मान",
+      "आत्म-सिद्धि",
+      "शारीरिक आवश्यकता"
+    ],
+    "answer": 2,
+    "explanation": "आत्म-सिद्धि"
+  },
+  {
+    "id": 10,
+    "topic": "Child Development & Pedagogy",
+    "question": "एरिक एरिक्सन का सिद्धांत किससे संबंधित है?",
+    "options": [
+      "मनोसामाजिक विकास",
+      "मनोलैंगिक विकास",
+      "नैतिक विकास",
+      "भाषा विकास"
+    ],
+    "answer": 0,
+    "explanation": "मनोसामाजिक विकास"
+  },
+  {
+    "id": 11,
+    "topic": "Child Development & Pedagogy",
+    "question": "सिगमंड फ्रायड के अनुसार व्यक्तित्व की संरचना में शामिल नहीं है?",
+    "options": [
+      "इदम्",
+      "अहम्",
+      "पराअहम्",
+      "संज्ञान"
+    ],
+    "answer": 3,
+    "explanation": "संज्ञान (Cognition)"
+  },
+  {
+    "id": 12,
+    "topic": "Child Development & Pedagogy",
+    "question": "बुद्धिलब्धि (IQ) की गणना का सूत्र किसने दिया?",
+    "options": [
+      "अल्फ्रेड बिने",
+      "विलियम स्टर्न",
+      "टर्मन",
+      "स्पीयरमैन"
+    ],
+    "answer": 1,
+    "explanation": "विलियम स्टर्न"
+  },
+  {
+    "id": 13,
+    "topic": "Child Development & Pedagogy",
+    "question": "\"बुद्धि द्वि-कारक सिद्धांत\" (Two-Factor Theory) किसने प्रस्तुत किया?",
+    "options": [
+      "थर्स्टन",
+      "स्पीयरमैन",
+      "गिलफोर्ड",
+      "कैटेल"
+    ],
+    "answer": 1,
+    "explanation": "स्पीयरमैन"
+  },
+  {
+    "id": 14,
+    "topic": "Child Development & Pedagogy",
+    "question": "समावेशी शिक्षा (Inclusive Education) का मुख्य उद्देश्य क्या है?",
+    "options": [
+      "केवल प्रतिभाशाली बच्चों को पढ़ाना",
+      "सभी बच्चों को समान अवसर व साथ शिक्षा देना",
+      "केवल दिव्यांग बच्चों की अलग कक्षा",
+      "निजी विद्यालयों को बढ़ावा"
+    ],
+    "answer": 1,
+    "explanation": "सभी बच्चों को समान अवसर व साथ शिक्षा देना"
+  },
+  {
+    "id": 15,
+    "topic": "Child Development & Pedagogy",
+    "question": "RTE अधिनियम कब लागू हुआ?",
+    "options": [
+      "2005",
+      "2009",
+      "2010",
+      "2020"
+    ],
+    "answer": 1,
+    "explanation": "2009"
+  },
+  {
+    "id": 16,
+    "topic": "Child Development & Pedagogy",
+    "question": "RTE अधिनियम के अनुसार शिक्षा का अधिकार किस आयु वर्ग के बच्चों को है?",
+    "options": [
+      "3-6 वर्ष",
+      "6-14 वर्ष",
+      "6-18 वर्ष",
+      "5-15 वर्ष"
+    ],
+    "answer": 1,
+    "explanation": "6-14 वर्ष"
+  },
+  {
+    "id": 17,
+    "topic": "Child Development & Pedagogy",
+    "question": "राष्ट्रीय पाठ्यचर्या रूपरेखा (NCF) किस वर्ष जारी हुई थी?",
+    "options": [
+      "2000",
+      "2005",
+      "2009",
+      "2015"
+    ],
+    "answer": 1,
+    "explanation": "2005"
+  },
+  {
+    "id": 18,
+    "topic": "Child Development & Pedagogy",
+    "question": "सतत एवं व्यापक मूल्यांकन (CCE) में मुख्यतः किसका आकलन किया जाता है?",
+    "options": [
+      "केवल शैक्षिक पक्ष",
+      "केवल सह-शैक्षिक पक्ष",
+      "शैक्षिक व सह-शैक्षिक दोनों पक्ष",
+      "केवल खेलकूद"
+    ],
+    "answer": 2,
+    "explanation": "शैक्षिक व सह-शैक्षिक दोनों पक्ष"
+  },
+  {
+    "id": 19,
+    "topic": "Child Development & Pedagogy",
+    "question": "किशोरावस्था को \"तूफान और तनाव\" (Storm and Stress) की अवस्था किसने कहा?",
+    "options": [
+      "स्टेनली हॉल",
+      "रूसो",
+      "फ्रायड",
+      "पियाजे"
+    ],
+    "answer": 0,
+    "explanation": "स्टेनली हॉल"
+  },
+  {
+    "id": 20,
+    "topic": "Child Development & Pedagogy",
+    "question": "वैयक्तिक भिन्नता (Individual Differences) का प्रमुख कारण है?",
+    "options": [
+      "केवल आनुवंशिकता",
+      "केवल वातावरण",
+      "आनुवंशिकता और वातावरण दोनों",
+      "केवल शिक्षक"
+    ],
+    "answer": 2,
+    "explanation": "आनुवंशिकता और वातावरण दोनों"
+  },
+  {
+    "id": 21,
+    "topic": "Child Development & Pedagogy",
+    "question": "अधिगम में \"पठार\" (Plateau) की स्थिति क्या दर्शाती है?",
+    "options": [
+      "तीव्र प्रगति",
+      "अस्थायी ठहराव",
+      "अधिगम की समाप्ति",
+      "अधिगम का प्रारंभ"
+    ],
+    "answer": 1,
+    "explanation": "अस्थायी ठहराव"
+  },
+  {
+    "id": 22,
+    "topic": "Child Development & Pedagogy",
+    "question": "सृजनात्मकता (Creativity) के विकास में सबसे अधिक सहायक कौन-सी विधि है?",
+    "options": [
+      "व्याख्यान विधि",
+      "विचार-मंथन",
+      "श्रुतलेख",
+      "पुनरावृत्ति"
+    ],
+    "answer": 1,
+    "explanation": "विचार-मंथन (Brainstorming)"
+  },
+  {
+    "id": 23,
+    "topic": "Child Development & Pedagogy",
+    "question": "प्रेरणा के प्रकारों में \"आंतरिक प्रेरणा\" का उदाहरण है?",
+    "options": [
+      "पुरस्कार पाने की इच्छा",
+      "स्वयं सीखने में रुचि",
+      "दंड का भय",
+      "प्रतियोगिता जीतना"
+    ],
+    "answer": 1,
+    "explanation": "स्वयं सीखने में रुचि"
+  },
+  {
+    "id": 24,
+    "topic": "Child Development & Pedagogy",
+    "question": "समाजीकरण (Socialization) की पहली संस्था कौन-सी है?",
+    "options": [
+      "विद्यालय",
+      "परिवार",
+      "समुदाय",
+      "मित्र-मंडली"
+    ],
+    "answer": 1,
+    "explanation": "परिवार"
+  },
+  {
+    "id": 25,
+    "topic": "Child Development & Pedagogy",
+    "question": "गेस्टाल्ट सिद्धांत (Gestalt Theory) मुख्यतः किससे संबंधित है?",
+    "options": [
+      "प्रत्यक्षीकरण/अंतर्दृष्टि द्वारा सीखना",
+      "प्रयास व त्रुटि",
+      "अनुबंधन",
+      "स्मृति"
+    ],
+    "answer": 0,
+    "explanation": "प्रत्यक्षीकरण/अंतर्दृष्टि द्वारा सीखना"
+  },
+  {
+    "id": 26,
+    "topic": "Child Development & Pedagogy",
+    "question": "\"अंतर्दृष्टि द्वारा सीखना\" (Insight Learning) का प्रयोग किसने वानरों पर किया?",
+    "options": [
+      "थार्नडाइक",
+      "कोहलर",
+      "पावलव",
+      "स्किनर"
+    ],
+    "answer": 1,
+    "explanation": "कोहलर"
+  },
+  {
+    "id": 27,
+    "topic": "Child Development & Pedagogy",
+    "question": "बाल केंद्रित शिक्षा (Child-Centred Education) के प्रबल समर्थक हैं?",
+    "options": [
+      "महात्मा गांधी",
+      "जॉन डीवी",
+      "महात्मा गांधी व जॉन डीवी दोनों",
+      "हरबर्ट"
+    ],
+    "answer": 2,
+    "explanation": "महात्मा गांधी व जॉन डीवी दोनों"
+  },
+  {
+    "id": 28,
+    "topic": "Child Development & Pedagogy",
+    "question": "निदानात्मक परीक्षण (Diagnostic Test) का उद्देश्य है?",
+    "options": [
+      "अंतिम श्रेणी निर्धारण",
+      "अधिगम कठिनाइयों की पहचान",
+      "प्रवेश परीक्षा",
+      "छात्रवृत्ति चयन"
+    ],
+    "answer": 1,
+    "explanation": "अधिगम कठिनाइयों की पहचान"
+  },
+  {
+    "id": 29,
+    "topic": "Child Development & Pedagogy",
+    "question": "उपचारात्मक शिक्षण (Remedial Teaching) कब प्रयोग होता है?",
+    "options": [
+      "प्रतिभाशाली छात्रों के लिए",
+      "कमजोर/पिछड़े छात्रों की कठिनाई दूर करने हेतु",
+      "प्रवेश के समय",
+      "परीक्षा के तुरंत बाद पुरस्कार हेतु"
+    ],
+    "answer": 1,
+    "explanation": "कमजोर/पिछड़े छात्रों की कठिनाई दूर करने हेतु"
+  },
+  {
+    "id": 30,
+    "topic": "Child Development & Pedagogy",
+    "question": "डिस्लेक्सिया (Dyslexia) किस प्रकार की कठिनाई है?",
+    "options": [
+      "पठन संबंधी सीखने की कठिनाई",
+      "श्रवण दोष",
+      "दृष्टि दोष",
+      "गणितीय दोष"
+    ],
+    "answer": 0,
+    "explanation": "पठन संबंधी सीखने की कठिनाई"
+  },
+  {
+    "id": 31,
+    "topic": "Child Development & Pedagogy",
+    "question": "डिस्केल्कुलिया (Dyscalculia) संबंधित है?",
+    "options": [
+      "लेखन कठिनाई",
+      "संख्या/गणित संबंधी कठिनाई",
+      "भाषा कठिनाई",
+      "स्मृति कठिनाई"
+    ],
+    "answer": 1,
+    "explanation": "संख्या/गणित संबंधी कठिनाई"
+  },
+  {
+    "id": 32,
+    "topic": "Child Development & Pedagogy",
+    "question": "बंडूरा का सिद्धांत किस नाम से जाना जाता है?",
+    "options": [
+      "सामाजिक अधिगम सिद्धांत",
+      "संज्ञानात्मक सिद्धांत",
+      "मनोविश्लेषणात्मक सिद्धांत",
+      "व्यवहारवादी सिद्धांत"
+    ],
+    "answer": 0,
+    "explanation": "सामाजिक अधिगम सिद्धांत"
+  },
+  {
+    "id": 33,
+    "topic": "Child Development & Pedagogy",
+    "question": "\"प्रेक्षणात्मक अधिगम\" (Observational Learning) की अवधारणा किसने दी?",
+    "options": [
+      "अल्बर्ट बंडूरा",
+      "स्किनर",
+      "पावलव",
+      "थार्नडाइक"
+    ],
+    "answer": 0,
+    "explanation": "अल्बर्ट बंडूरा"
+  },
+  {
+    "id": 34,
+    "topic": "Child Development & Pedagogy",
+    "question": "सह-शैक्षिक क्रियाएँ (Co-scholastic Activities) में शामिल है?",
+    "options": [
+      "खेलकूद, कला, संगीत",
+      "केवल गणित",
+      "केवल विज्ञान",
+      "केवल भाषा"
+    ],
+    "answer": 0,
+    "explanation": "खेलकूद, कला, संगीत"
+  },
+  {
+    "id": 35,
+    "topic": "Child Development & Pedagogy",
+    "question": "समावेशी शिक्षा में \"बाधा-मुक्त वातावरण\" (Barrier-Free Environment) का अर्थ है?",
+    "options": [
+      "परीक्षा में छूट",
+      "भौतिक व शैक्षिक बाधाओं को दूर करना",
+      "फीस माफी",
+      "अलग विद्यालय बनाना"
+    ],
+    "answer": 1,
+    "explanation": "भौतिक व शैक्षिक बाधाओं को दूर करना"
+  },
+  {
+    "id": 36,
+    "topic": "Child Development & Pedagogy",
+    "question": "विकास की प्रक्रिया में \"परिपक्वता\" (Maturation) का अर्थ है?",
+    "options": [
+      "सीखने से आने वाला परिवर्तन",
+      "आंतरिक जैविक विकास प्रक्रिया",
+      "पर्यावरण का प्रभाव",
+      "सामाजिक प्रभाव"
+    ],
+    "answer": 1,
+    "explanation": "आंतरिक जैविक विकास प्रक्रिया"
+  },
+  {
+    "id": 37,
+    "topic": "Child Development & Pedagogy",
+    "question": "संवेगात्मक बुद्धि (Emotional Intelligence) की अवधारणा को लोकप्रिय बनाया?",
+    "options": [
+      "डेनियल गोलमैन",
+      "गार्डनर",
+      "स्टर्नबर्ग",
+      "बिने"
+    ],
+    "answer": 0,
+    "explanation": "डेनियल गोलमैन"
+  },
+  {
+    "id": 38,
+    "topic": "Child Development & Pedagogy",
+    "question": "वंचित/अल्पसंख्यक वर्ग के बच्चों की शिक्षा के लिए कौन-सी विधि उपयुक्त है?",
+    "options": [
+      "भेदभावपूर्ण शिक्षण",
+      "समावेशी व सहभागितापूर्ण शिक्षण",
+      "कठोर अनुशासन",
+      "परीक्षा से वंचित रखना"
+    ],
+    "answer": 1,
+    "explanation": "समावेशी व सहभागितापूर्ण शिक्षण"
+  },
+  {
+    "id": 39,
+    "topic": "Child Development & Pedagogy",
+    "question": "अधिगम स्थानांतरण (Transfer of Learning) के प्रकार हैं?",
+    "options": [
+      "सकारात्मक व नकारात्मक",
+      "केवल सकारात्मक",
+      "केवल नकारात्मक",
+      "कोई नहीं"
+    ],
+    "answer": 0,
+    "explanation": "सकारात्मक व नकारात्मक"
+  },
+  {
+    "id": 40,
+    "topic": "Child Development & Pedagogy",
+    "question": "वातावरणीय कारकों में विद्यालय के अतिरिक्त प्रमुख कारक है?",
+    "options": [
+      "परिवार व समाज",
+      "आनुवंशिकता",
+      "जीन",
+      "गुणसूत्र"
+    ],
+    "answer": 0,
+    "explanation": "परिवार व समाज"
+  },
+  {
+    "id": 41,
+    "topic": "Child Development & Pedagogy",
+    "question": "\"बालक जन्म से ही अच्छा या बुरा नहीं होता, वातावरण उसे बनाता है\" — यह मत किसका है?",
+    "options": [
+      "जॉन लॉक",
+      "रूसो",
+      "प्लेटो",
+      "अरस्तू"
+    ],
+    "answer": 0,
+    "explanation": "जॉन लॉक"
+  },
+  {
+    "id": 42,
+    "topic": "Child Development & Pedagogy",
+    "question": "रूसो के अनुसार शिक्षा होनी चाहिए?",
+    "options": [
+      "प्रकृतिवादी",
+      "आदर्शवादी",
+      "यथार्थवादी",
+      "प्रयोजनवादी"
+    ],
+    "answer": 0,
+    "explanation": "प्रकृतिवादी"
+  },
+  {
+    "id": 43,
+    "topic": "Child Development & Pedagogy",
+    "question": "मूल्यांकन के प्रकारों में \"रचनात्मक मूल्यांकन\" (Formative Assessment) होता है?",
+    "options": [
+      "शिक्षण प्रक्रिया के दौरान",
+      "शिक्षण के अंत में",
+      "वर्ष के अंत में एक बार",
+      "प्रवेश के समय"
+    ],
+    "answer": 0,
+    "explanation": "शिक्षण प्रक्रिया के दौरान"
+  },
+  {
+    "id": 44,
+    "topic": "Child Development & Pedagogy",
+    "question": "\"योगात्मक मूल्यांकन\" (Summative Assessment) कब किया जाता है?",
+    "options": [
+      "शिक्षण के दौरान",
+      "पाठ्यक्रम/सत्र के अंत में",
+      "प्रवेश के समय",
+      "प्रतिदिन"
+    ],
+    "answer": 1,
+    "explanation": "पाठ्यक्रम/सत्र के अंत में"
+  },
+  {
+    "id": 45,
+    "topic": "Child Development & Pedagogy",
+    "question": "बच्चों में भाषा अर्जन का सिद्धांत \"जन्मजात परिकल्पना\" (Innateness Hypothesis) किसने दी?",
+    "options": [
+      "नोम चॉम्स्की",
+      "स्किनर",
+      "पियाजे",
+      "वाइगोत्स्की"
+    ],
+    "answer": 0,
+    "explanation": "नोम चॉम्स्की"
+  },
+  {
+    "id": 46,
+    "topic": "Child Development & Pedagogy",
+    "question": "समावेशी कक्षा में शिक्षक की सबसे महत्वपूर्ण भूमिका है?",
+    "options": [
+      "सभी को समान गति से पढ़ाना",
+      "व्यक्तिगत आवश्यकताओं के अनुसार शिक्षण अनुकूलित करना",
+      "कमजोर बच्चों को अनदेखा करना",
+      "केवल परीक्षा परिणाम पर ध्यान देना"
+    ],
+    "answer": 1,
+    "explanation": "व्यक्तिगत आवश्यकताओं के अनुसार शिक्षण अनुकूलित करना"
+  },
+  {
+    "id": 47,
+    "topic": "Child Development & Pedagogy",
+    "question": "किशोरावस्था में पहचान संकट (Identity Crisis) की अवधारणा किसने दी?",
+    "options": [
+      "एरिक एरिक्सन",
+      "फ्रायड",
+      "पियाजे",
+      "कोहलबर्ग"
+    ],
+    "answer": 0,
+    "explanation": "एरिक एरिक्सन"
+  },
+  {
+    "id": 48,
+    "topic": "Child Development & Pedagogy",
+    "question": "वाइगोत्स्की के अनुसार भाषा और विचार का विकास होता है?",
+    "options": [
+      "सामाजिक-सांस्कृतिक अंतःक्रिया से",
+      "केवल आनुवंशिकता से",
+      "केवल परिपक्वता से",
+      "दंड से"
+    ],
+    "answer": 0,
+    "explanation": "सामाजिक-सांस्कृतिक अंतःक्रिया से"
+  },
+  {
+    "id": 49,
+    "topic": "Child Development & Pedagogy",
+    "question": "\"स्कैफोल्डिंग\" (Scaffolding) की अवधारणा किससे संबंधित है?",
+    "options": [
+      "वाइगोत्स्की",
+      "पियाजे",
+      "स्किनर",
+      "पावलव"
+    ],
+    "answer": 0,
+    "explanation": "वाइगोत्स्की"
+  },
+  {
+    "id": 50,
+    "topic": "Child Development & Pedagogy",
+    "question": "सामान्य बुद्धिलब्धि (औसत IQ) मानी जाती है?",
+    "options": [
+      "70-80",
+      "90-110",
+      "130-140",
+      "50-60"
+    ],
+    "answer": 1,
+    "explanation": "90-110"
+  },
+  {
+    "id": 51,
+    "topic": "Child Development & Pedagogy",
+    "question": "मंदबुद्धि बालकों की IQ सीमा मानी जाती है?",
+    "options": [
+      "70 से नीचे",
+      "90-110",
+      "110-120",
+      "130 से ऊपर"
+    ],
+    "answer": 0,
+    "explanation": "70 से नीचे"
+  },
+  {
+    "id": 52,
+    "topic": "Child Development & Pedagogy",
+    "question": "प्रतिभाशाली बालकों (Gifted Children) की पहचान का मुख्य आधार है?",
+    "options": [
+      "उच्च IQ व विशेष योग्यता",
+      "कमजोर स्मृति",
+      "धीमी गति से सीखना",
+      "सामाजिक अलगाव"
+    ],
+    "answer": 0,
+    "explanation": "उच्च IQ व विशेष योग्यता"
+  },
+  {
+    "id": 53,
+    "topic": "Child Development & Pedagogy",
+    "question": "अधिगम के सिद्धांतों में \"सन्निधि सिद्धांत\" (Contiguity Theory) किसने दिया?",
+    "options": [
+      "गुथरी",
+      "हल",
+      "टॉलमैन",
+      "वाटसन"
+    ],
+    "answer": 0,
+    "explanation": "गुथरी"
+  },
+  {
+    "id": 54,
+    "topic": "Child Development & Pedagogy",
+    "question": "संकेत-चिह्न सिद्धांत (Sign Theory of Learning) किसने प्रस्तुत किया?",
+    "options": [
+      "टॉलमैन",
+      "हल",
+      "गुथरी",
+      "स्किनर"
+    ],
+    "answer": 0,
+    "explanation": "टॉलमैन"
+  },
+  {
+    "id": 55,
+    "topic": "Child Development & Pedagogy",
+    "question": "बालकों के व्यक्तित्व मापन की तकनीक नहीं है?",
+    "options": [
+      "प्रश्नावली",
+      "निरीक्षण",
+      "प्रक्षेपण विधि",
+      "श्रुतलेख"
+    ],
+    "answer": 3,
+    "explanation": "श्रुतलेख"
+  },
+  {
+    "id": 56,
+    "topic": "Child Development & Pedagogy",
+    "question": "\"थीमैटिक ऐपरसेप्शन टेस्ट\" (TAT) किस प्रकार की विधि है?",
+    "options": [
+      "प्रक्षेपण विधि",
+      "निरीक्षण विधि",
+      "प्रश्नावली विधि",
+      "साक्षात्कार विधि"
+    ],
+    "answer": 0,
+    "explanation": "प्रक्षेपण विधि"
+  },
+  {
+    "id": 57,
+    "topic": "Child Development & Pedagogy",
+    "question": "समावेशी शिक्षा नीति भारत में किस अधिनियम से सुदृढ़ हुई?",
+    "options": [
+      "दिव्यांगजन अधिकार अधिनियम, 2016",
+      "RTE 2009",
+      "दोनों",
+      "कोई नहीं"
+    ],
+    "answer": 2,
+    "explanation": "दोनों"
+  },
+  {
+    "id": 58,
+    "topic": "Child Development & Pedagogy",
+    "question": "बालक के सर्वांगीण विकास में शामिल नहीं है?",
+    "options": [
+      "शारीरिक विकास",
+      "संज्ञानात्मक विकास",
+      "सामाजिक-संवेगात्मक विकास",
+      "केवल शैक्षिक अंक"
+    ],
+    "answer": 3,
+    "explanation": "केवल शैक्षिक अंक"
+  },
+  {
+    "id": 59,
+    "topic": "Child Development & Pedagogy",
+    "question": "अभिप्रेरणा का \"प्रोत्साहन सिद्धांत\" (Incentive Theory) बताता है कि व्यवहार प्रेरित होता है?",
+    "options": [
+      "आंतरिक आवश्यकता से",
+      "बाह्य पुरस्कार/प्रोत्साहन से",
+      "केवल भय से",
+      "अचेतन इच्छा से"
+    ],
+    "answer": 1,
+    "explanation": "बाह्य पुरस्कार/प्रोत्साहन से"
+  },
+  {
+    "id": 60,
+    "topic": "Child Development & Pedagogy",
+    "question": "समावेशी कक्षा में विभेदित अनुदेशन (Differentiated Instruction) का अर्थ है?",
+    "options": [
+      "सभी को एक जैसी सामग्री देना",
+      "छात्रों की भिन्न आवश्यकताओं अनुसार शिक्षण बदलना",
+      "कमजोर छात्रों को अलग कर देना",
+      "केवल प्रतिभाशाली छात्रों पर ध्यान देना"
+    ],
+    "answer": 1,
+    "explanation": "छात्रों की भिन्न आवश्यकताओं अनुसार शिक्षण बदलना"
+  },
+  {
+    "id": 61,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "हिंदी वर्णमाला में स्वरों की संख्या कितनी है?",
+    "options": [
+      "10",
+      "11",
+      "13",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "11"
+  },
+  {
+    "id": 62,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "हिंदी वर्णमाला में व्यंजनों की कुल संख्या कितनी मानी जाती है?",
+    "options": [
+      "33",
+      "35",
+      "38",
+      "41"
+    ],
+    "answer": 2,
+    "explanation": "38 (कुछ विद्वान 33 मूल व्यंजन मानते हैं)"
+  },
+  {
+    "id": 63,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'अ, इ, उ' किस प्रकार के स्वर हैं?",
+    "options": [
+      "दीर्घ स्वर",
+      "ह्रस्व स्वर",
+      "प्लुत स्वर",
+      "संयुक्त स्वर"
+    ],
+    "answer": 1,
+    "explanation": "ह्रस्व स्वर"
+  },
+  {
+    "id": 64,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'क वर्ग' के व्यंजन कौन-से हैं?",
+    "options": [
+      "क, ख, ग, घ, ङ",
+      "च, छ, ज, झ, ञ",
+      "ट, ठ, ड, ढ, ण",
+      "त, थ, द, ध, न"
+    ],
+    "answer": 0,
+    "explanation": "क, ख, ग, घ, ङ"
+  },
+  {
+    "id": 65,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'विद्या + आलय' की संधि से बनेगा?",
+    "options": [
+      "विद्यालय",
+      "विद्यायालय",
+      "विद्यालाय",
+      "विद्यालय्य"
+    ],
+    "answer": 0,
+    "explanation": "विद्यालय"
+  },
+  {
+    "id": 66,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'सूर्य + उदय' में कौन-सी संधि है?",
+    "options": [
+      "दीर्घ संधि",
+      "गुण संधि",
+      "वृद्धि संधि",
+      "यण संधि"
+    ],
+    "answer": 1,
+    "explanation": "गुण संधि"
+  },
+  {
+    "id": 67,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'मनोहर' शब्द में कौन-सी संधि है?",
+    "options": [
+      "स्वर संधि",
+      "व्यंजन संधि",
+      "विसर्ग संधि",
+      "कोई नहीं"
+    ],
+    "answer": 2,
+    "explanation": "विसर्ग संधि"
+  },
+  {
+    "id": 68,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'राजा का पुत्र' का समास होगा?",
+    "options": [
+      "तत्पुरुष समास",
+      "द्वंद्व समास",
+      "बहुव्रीहि समास",
+      "कर्मधारय समास"
+    ],
+    "answer": 0,
+    "explanation": "तत्पुरुष समास"
+  },
+  {
+    "id": 69,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'दाल-भात' किस समास का उदाहरण है?",
+    "options": [
+      "द्वंद्व समास",
+      "तत्पुरुष समास",
+      "अव्ययीभाव समास",
+      "बहुव्रीहि समास"
+    ],
+    "answer": 0,
+    "explanation": "द्वंद्व समास"
+  },
+  {
+    "id": 70,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'नीलकंठ' (जिसका कंठ नीला है, अर्थात शिव) में कौन-सा समास है?",
+    "options": [
+      "कर्मधारय",
+      "बहुव्रीहि",
+      "द्विगु",
+      "तत्पुरुष"
+    ],
+    "answer": 1,
+    "explanation": "बहुव्रीहि"
+  },
+  {
+    "id": 71,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'चतुर्भुज' शब्द में कौन-सा समास है?",
+    "options": [
+      "द्विगु समास",
+      "कर्मधारय समास",
+      "द्वंद्व समास",
+      "अव्ययीभाव समास"
+    ],
+    "answer": 0,
+    "explanation": "द्विगु समास"
+  },
+  {
+    "id": 72,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'यथाशक्ति' शब्द किस समास का उदाहरण है?",
+    "options": [
+      "अव्ययीभाव समास",
+      "तत्पुरुष समास",
+      "द्वंद्व समास",
+      "बहुव्रीहि समास"
+    ],
+    "answer": 0,
+    "explanation": "अव्ययीभाव समास"
+  },
+  {
+    "id": 73,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'नीलकमल' में कौन-सा समास है?",
+    "options": [
+      "कर्मधारय समास",
+      "बहुव्रीहि समास",
+      "द्वंद्व समास",
+      "द्विगु समास"
+    ],
+    "answer": 0,
+    "explanation": "कर्मधारय समास"
+  },
+  {
+    "id": 74,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'पुस्तक' शब्द का पर्यायवाची नहीं है?",
+    "options": [
+      "ग्रंथ",
+      "किताब",
+      "पोथी",
+      "लेखनी"
+    ],
+    "answer": 3,
+    "explanation": "लेखनी"
+  },
+  {
+    "id": 75,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'सूर्य' का पर्यायवाची शब्द नहीं है?",
+    "options": [
+      "दिनकर",
+      "भास्कर",
+      "रजनीश",
+      "दिवाकर"
+    ],
+    "answer": 2,
+    "explanation": "रजनीश (यह चंद्रमा का पर्यायवाची है)"
+  },
+  {
+    "id": 76,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'आकाश' का पर्यायवाची है?",
+    "options": [
+      "गगन, नभ, अंबर",
+      "सरिता, नदी",
+      "पर्वत, गिरि",
+      "वन, अरण्य"
+    ],
+    "answer": 0,
+    "explanation": "गगन, नभ, अंबर"
+  },
+  {
+    "id": 77,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'अंधकार' का विलोम शब्द है?",
+    "options": [
+      "प्रकाश",
+      "तमस",
+      "रात्रि",
+      "कालिमा"
+    ],
+    "answer": 0,
+    "explanation": "प्रकाश"
+  },
+  {
+    "id": 78,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'निंदा' का विलोम शब्द है?",
+    "options": [
+      "स्तुति",
+      "आलोचना",
+      "घृणा",
+      "विरोध"
+    ],
+    "answer": 0,
+    "explanation": "स्तुति"
+  },
+  {
+    "id": 79,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'जड़' का विलोम है?",
+    "options": [
+      "चेतन",
+      "स्थिर",
+      "कठोर",
+      "भारी"
+    ],
+    "answer": 0,
+    "explanation": "चेतन"
+  },
+  {
+    "id": 80,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'गुरु' शब्द का तद्भव रूप है?",
+    "options": [
+      "गुरु",
+      "गोर",
+      "गुरुआ",
+      "गुरुजी"
+    ],
+    "answer": 0,
+    "explanation": "'गुरु' मूलतः तत्सम है; तद्भव उदाहरण हेतु 'अग्नि→आग' उपयुक्त है।"
+  },
+  {
+    "id": 81,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'दुग्ध' शब्द का तद्भव रूप क्या है?",
+    "options": [
+      "दूध",
+      "दुधा",
+      "दुग्धा",
+      "दूधिया"
+    ],
+    "answer": 0,
+    "explanation": "दूध"
+  },
+  {
+    "id": 82,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'हस्त' का तद्भव रूप है?",
+    "options": [
+      "हाथ",
+      "हस्ता",
+      "हथा",
+      "हस्ति"
+    ],
+    "answer": 0,
+    "explanation": "हाथ"
+  },
+  {
+    "id": 83,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'चंद्र' शब्द का तद्भव रूप है?",
+    "options": [
+      "चाँद",
+      "चंदा",
+      "चंद्रमा",
+      "चंद्री"
+    ],
+    "answer": 0,
+    "explanation": "चाँद"
+  },
+  {
+    "id": 84,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'प्र' उपसर्ग से बना शब्द है?",
+    "options": [
+      "प्रयोग",
+      "संयोग",
+      "वियोग",
+      "अनुयोग"
+    ],
+    "answer": 0,
+    "explanation": "प्रयोग"
+  },
+  {
+    "id": 85,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'सु' उपसर्ग से बना शब्द है?",
+    "options": [
+      "सुयोग",
+      "दुर्योग",
+      "वियोग",
+      "प्रयोग"
+    ],
+    "answer": 0,
+    "explanation": "सुयोग"
+  },
+  {
+    "id": 86,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'वाला' प्रत्यय से बना शब्द है?",
+    "options": [
+      "दूधवाला",
+      "दूधिया",
+      "दुग्धिक",
+      "दुग्धीय"
+    ],
+    "answer": 0,
+    "explanation": "दूधवाला"
+  },
+  {
+    "id": 87,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'ता' प्रत्यय लगाकर बनने वाला शब्द है?",
+    "options": [
+      "मानवता",
+      "मानवीय",
+      "मानवीकरण",
+      "मानवत्व"
+    ],
+    "answer": 0,
+    "explanation": "मानवता"
+  },
+  {
+    "id": 88,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'लड़का पढ़ता है' वाक्य में लिंग है?",
+    "options": [
+      "पुल्लिंग",
+      "स्त्रीलिंग",
+      "उभयलिंग",
+      "नपुंसकलिंग"
+    ],
+    "answer": 0,
+    "explanation": "पुल्लिंग"
+  },
+  {
+    "id": 89,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "हिंदी में कारक की कुल संख्या मानी जाती है?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "8"
+  },
+  {
+    "id": 90,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'राम ने पत्र लिखा' वाक्य में 'ने' किस कारक का चिह्न है?",
+    "options": [
+      "कर्ता कारक",
+      "कर्म कारक",
+      "करण कारक",
+      "संप्रदान कारक"
+    ],
+    "answer": 0,
+    "explanation": "कर्ता कारक"
+  },
+  {
+    "id": 91,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'माँ ने बच्चे को खिलौना दिया' में 'को' किस कारक का चिह्न है?",
+    "options": [
+      "कर्म/संप्रदान कारक",
+      "करण कारक",
+      "अपादान कारक",
+      "संबंध कारक"
+    ],
+    "answer": 0,
+    "explanation": "कर्म/संप्रदान कारक"
+  },
+  {
+    "id": 92,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'पेड़ से पत्ता गिरा' वाक्य में 'से' किस कारक का उदाहरण है?",
+    "options": [
+      "अपादान कारक",
+      "करण कारक",
+      "कर्म कारक",
+      "अधिकरण कारक"
+    ],
+    "answer": 0,
+    "explanation": "अपादान कारक"
+  },
+  {
+    "id": 93,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'लड़का घर में है' में 'में' किस कारक का चिह्न है?",
+    "options": [
+      "अधिकरण कारक",
+      "संबंध कारक",
+      "संबोधन कारक",
+      "कर्म कारक"
+    ],
+    "answer": 0,
+    "explanation": "अधिकरण कारक"
+  },
+  {
+    "id": 94,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "वाक्य शुद्ध करें: \"मुझे यह पुस्तक अच्छी लगी\" — इस वाक्य में कोई त्रुटि नहीं, लेकिन अशुद्ध वाक्य कौन-सा है?",
+    "options": [
+      "मुझे यह पुस्तक अच्छी लगी",
+      "मैं यह पुस्तक अच्छी लगा",
+      "मुझको यह पुस्तक पसंद है",
+      "मुझे यह पुस्तक पसंद आई"
+    ],
+    "answer": 1,
+    "explanation": "मैं यह पुस्तक अच्छी लगा (त्रुटिपूर्ण वाक्य)"
+  },
+  {
+    "id": 95,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "निम्न में शुद्ध वाक्य है?",
+    "options": [
+      "वह घर गया",
+      "वह घर को गया",
+      "वह घर पे गया",
+      "वह घर में गया"
+    ],
+    "answer": 0,
+    "explanation": "वह घर गया"
+  },
+  {
+    "id": 96,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "पूर्ण विराम चिह्न (।) का प्रयोग होता है?",
+    "options": [
+      "प्रश्नवाचक वाक्य के अंत में",
+      "विस्मयादिबोधक वाक्य में",
+      "सामान्य वाक्य की समाप्ति पर",
+      "संबोधन में"
+    ],
+    "answer": 2,
+    "explanation": "सामान्य वाक्य की समाप्ति पर"
+  },
+  {
+    "id": 97,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "अल्प विराम चिह्न (,) का प्रयोग किस स्थिति में होता है?",
+    "options": [
+      "वाक्य में छोटा विराम दिखाने हेतु",
+      "प्रश्न पूछने हेतु",
+      "आश्चर्य प्रकट करने हेतु",
+      "उद्धरण हेतु"
+    ],
+    "answer": 0,
+    "explanation": "वाक्य में छोटा विराम दिखाने हेतु"
+  },
+  {
+    "id": 98,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'रस' के कितने प्रकार माने गए हैं?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "9"
+  },
+  {
+    "id": 99,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "वीर रस का स्थायी भाव क्या है?",
+    "options": [
+      "उत्साह",
+      "शोक",
+      "भय",
+      "रति"
+    ],
+    "answer": 0,
+    "explanation": "उत्साह"
+  },
+  {
+    "id": 100,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "शृंगार रस का स्थायी भाव है?",
+    "options": [
+      "रति",
+      "हास",
+      "क्रोध",
+      "जुगुप्सा"
+    ],
+    "answer": 0,
+    "explanation": "रति"
+  },
+  {
+    "id": 101,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "करुण रस का स्थायी भाव है?",
+    "options": [
+      "शोक",
+      "उत्साह",
+      "रति",
+      "विस्मय"
+    ],
+    "answer": 0,
+    "explanation": "शोक"
+  },
+  {
+    "id": 102,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'उपमा अलंकार' का उदाहरण है?",
+    "options": [
+      "मुख चंद्रमा जैसा है",
+      "चरण-कमल",
+      "मानो मोती बरस रहे हों",
+      "कनक-कनक ते सौ गुनी"
+    ],
+    "answer": 0,
+    "explanation": "मुख चंद्रमा जैसा है"
+  },
+  {
+    "id": 103,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'रूपक अलंकार' में क्या होता है?",
+    "options": [
+      "उपमेय और उपमान में भेद बताया जाता है",
+      "उपमेय पर उपमान का आरोप होता है",
+      "एक ही शब्द की पुनरावृत्ति होती है",
+      "अतिशयोक्ति दिखाई जाती है"
+    ],
+    "answer": 1,
+    "explanation": "उपमेय पर उपमान का आरोप होता है"
+  },
+  {
+    "id": 104,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'चरण-कमल बंदौं हरि राई' में कौन-सा अलंकार है?",
+    "options": [
+      "रूपक अलंकार",
+      "उपमा अलंकार",
+      "उत्प्रेक्षा अलंकार",
+      "यमक अलंकार"
+    ],
+    "answer": 0,
+    "explanation": "रूपक अलंकार"
+  },
+  {
+    "id": 105,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "जब एक ही वर्ण या शब्द की आवृत्ति बार-बार हो तो कौन-सा अलंकार होता है?",
+    "options": [
+      "अनुप्रास अलंकार",
+      "यमक अलंकार",
+      "श्लेष अलंकार",
+      "उपमा अलंकार"
+    ],
+    "answer": 0,
+    "explanation": "अनुप्रास अलंकार"
+  },
+  {
+    "id": 106,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "जब एक शब्द के प्रयोग से अनेक अर्थ निकलते हैं, तो वह अलंकार कहलाता है?",
+    "options": [
+      "श्लेष अलंकार",
+      "यमक अलंकार",
+      "अनुप्रास अलंकार",
+      "उपमा अलंकार"
+    ],
+    "answer": 0,
+    "explanation": "श्लेष अलंकार"
+  },
+  {
+    "id": 107,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "दोहा किस प्रकार का छंद है?",
+    "options": [
+      "मात्रिक छंद",
+      "वर्णिक छंद",
+      "मुक्त छंद",
+      "गीति छंद"
+    ],
+    "answer": 0,
+    "explanation": "मात्रिक छंद"
+  },
+  {
+    "id": 108,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "दोहा छंद में कुल कितनी मात्राएँ होती हैं?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "26"
+    ],
+    "answer": 0,
+    "explanation": "24 (13-11 के क्रम में दो पंक्तियाँ)"
+  },
+  {
+    "id": 109,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "चौपाई छंद में प्रत्येक चरण में कितनी मात्राएँ होती हैं?",
+    "options": [
+      "16",
+      "24",
+      "13",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "16"
+  },
+  {
+    "id": 110,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'गागर में सागर भरना' मुहावरे का अर्थ है?",
+    "options": [
+      "कम शब्दों में बड़ी बात कहना",
+      "पानी भरना",
+      "परिश्रम करना",
+      "धोखा देना"
+    ],
+    "answer": 0,
+    "explanation": "कम शब्दों में बड़ी बात कहना"
+  },
+  {
+    "id": 111,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'नौ दो ग्यारह होना' मुहावरे का अर्थ है?",
+    "options": [
+      "भाग जाना",
+      "गिनती करना",
+      "खुश होना",
+      "झगड़ा करना"
+    ],
+    "answer": 0,
+    "explanation": "भाग जाना"
+  },
+  {
+    "id": 112,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'आँख का तारा होना' मुहावरे का अर्थ है?",
+    "options": [
+      "बहुत प्रिय होना",
+      "रोना",
+      "दुखी होना",
+      "देखना"
+    ],
+    "answer": 0,
+    "explanation": "बहुत प्रिय होना"
+  },
+  {
+    "id": 113,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'अपनी करनी पार उतरनी' लोकोक्ति का भाव है?",
+    "options": [
+      "अपने कर्मों का फल स्वयं भोगना",
+      "दूसरों की सहायता करना",
+      "नाव चलाना",
+      "परिश्रम व्यर्थ जाना"
+    ],
+    "answer": 0,
+    "explanation": "अपने कर्मों का फल स्वयं भोगना"
+  },
+  {
+    "id": 114,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'अंधे के हाथ बटेर लगना' लोकोक्ति का अर्थ है?",
+    "options": [
+      "बिना प्रयास के लाभ मिलना",
+      "परिश्रम से सफलता",
+      "असफलता मिलना",
+      "धोखा खाना"
+    ],
+    "answer": 0,
+    "explanation": "बिना प्रयास के लाभ मिलना"
+  },
+  {
+    "id": 115,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "संज्ञा के भेद कितने माने गए हैं?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "5 (व्यक्तिवाचक, जातिवाचक, भाववाचक, समूहवाचक, द्रव्यवाचक)"
+  },
+  {
+    "id": 116,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "सर्वनाम के कितने भेद होते हैं?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "6"
+  },
+  {
+    "id": 117,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "क्रिया के मुख्य भेद हैं?",
+    "options": [
+      "सकर्मक और अकर्मक",
+      "केवल सकर्मक",
+      "केवल अकर्मक",
+      "कोई भेद नहीं"
+    ],
+    "answer": 0,
+    "explanation": "सकर्मक और अकर्मक"
+  },
+  {
+    "id": 118,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "विशेषण के कितने भेद माने गए हैं?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "4 (गुणवाचक, संख्यावाचक, परिमाणवाचक, सार्वनामिक)"
+  },
+  {
+    "id": 119,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "काल के कितने प्रकार होते हैं?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "3 (भूत, वर्तमान, भविष्यत)"
+  },
+  {
+    "id": 120,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'हिंदी' भाषा किस भाषा-परिवार से संबंधित है?",
+    "options": [
+      "भारोपीय",
+      "द्रविड़ परिवार",
+      "आस्ट्रिक परिवार",
+      "चीनी-तिब्बती परिवार"
+    ],
+    "answer": 0,
+    "explanation": "भारोपीय (इंडो-यूरोपीय) परिवार"
+  },
+  {
+    "id": 121,
+    "topic": "Hindi Literature",
+    "question": "हिंदी साहित्य के इतिहास को कितने कालों में बाँटा गया है (आचार्य रामचंद्र शुक्ल के अनुसार)?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 1,
+    "explanation": "4 (आदिकाल, भक्तिकाल, रीतिकाल, आधुनिक काल)"
+  },
+  {
+    "id": 122,
+    "topic": "Hindi Literature",
+    "question": "आदिकाल को किस अन्य नाम से जाना जाता है?",
+    "options": [
+      "वीरगाथा काल",
+      "स्वर्ण काल",
+      "रीतिकाल",
+      "छायावाद काल"
+    ],
+    "answer": 0,
+    "explanation": "वीरगाथा काल"
+  },
+  {
+    "id": 123,
+    "topic": "Hindi Literature",
+    "question": "'पृथ्वीराज रासो' के रचयिता कौन हैं?",
+    "options": [
+      "चंदबरदाई",
+      "जगनिक",
+      "विद्यापति",
+      "अमीर खुसरो"
+    ],
+    "answer": 0,
+    "explanation": "चंदबरदाई"
+  },
+  {
+    "id": 124,
+    "topic": "Hindi Literature",
+    "question": "भक्तिकाल को कितनी शाखाओं में बाँटा गया है?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "answer": 0,
+    "explanation": "2 (सगुण भक्ति व निर्गुण भक्ति)"
+  },
+  {
+    "id": 125,
+    "topic": "Hindi Literature",
+    "question": "निर्गुण भक्ति धारा के अंतर्गत आते हैं?",
+    "options": [
+      "कबीरदास, रैदास, नानक",
+      "तुलसीदास, सूरदास",
+      "मीराबाई, रसखान",
+      "बिहारी, केशवदास"
+    ],
+    "answer": 0,
+    "explanation": "कबीरदास, रैदास, नानक"
+  },
+  {
+    "id": 126,
+    "topic": "Hindi Literature",
+    "question": "सगुण भक्ति की राम भक्ति शाखा के प्रमुख कवि हैं?",
+    "options": [
+      "तुलसीदास",
+      "कबीरदास",
+      "रैदास",
+      "नानक"
+    ],
+    "answer": 0,
+    "explanation": "तुलसीदास"
+  },
+  {
+    "id": 127,
+    "topic": "Hindi Literature",
+    "question": "सगुण भक्ति की कृष्ण भक्ति शाखा के प्रमुख कवि हैं?",
+    "options": [
+      "सूरदास",
+      "तुलसीदास",
+      "कबीरदास",
+      "रैदास"
+    ],
+    "answer": 0,
+    "explanation": "सूरदास"
+  },
+  {
+    "id": 128,
+    "topic": "Hindi Literature",
+    "question": "'रामचरितमानस' के रचयिता कौन हैं?",
+    "options": [
+      "तुलसीदास",
+      "सूरदास",
+      "कबीरदास",
+      "वाल्मीकि"
+    ],
+    "answer": 0,
+    "explanation": "तुलसीदास"
+  },
+  {
+    "id": 129,
+    "topic": "Hindi Literature",
+    "question": "'सूरसागर' किसकी रचना है?",
+    "options": [
+      "सूरदास",
+      "तुलसीदास",
+      "मीराबाई",
+      "कबीरदास"
+    ],
+    "answer": 0,
+    "explanation": "सूरदास"
+  },
+  {
+    "id": 130,
+    "topic": "Hindi Literature",
+    "question": "सूरदास किस कवि के शिष्य माने जाते हैं?",
+    "options": [
+      "वल्लभाचार्य",
+      "रामानंद",
+      "रामानुजाचार्य",
+      "चैतन्य महाप्रभु"
+    ],
+    "answer": 0,
+    "explanation": "वल्लभाचार्य"
+  },
+  {
+    "id": 131,
+    "topic": "Hindi Literature",
+    "question": "कबीरदास की वाणियों का संग्रह किस नाम से जाना जाता है?",
+    "options": [
+      "बीजक",
+      "साखी",
+      "सूरसागर",
+      "विनय पत्रिका"
+    ],
+    "answer": 0,
+    "explanation": "बीजक"
+  },
+  {
+    "id": 132,
+    "topic": "Hindi Literature",
+    "question": "मीराबाई किस भक्ति धारा से संबंधित हैं?",
+    "options": [
+      "कृष्ण भक्ति",
+      "राम भक्ति",
+      "निर्गुण भक्ति",
+      "शैव भक्ति"
+    ],
+    "answer": 0,
+    "explanation": "कृष्ण भक्ति (सगुण)"
+  },
+  {
+    "id": 133,
+    "topic": "Hindi Literature",
+    "question": "रीतिकाल के प्रमुख कवि हैं?",
+    "options": [
+      "बिहारी",
+      "कबीर",
+      "तुलसीदास",
+      "सूरदास"
+    ],
+    "answer": 0,
+    "explanation": "बिहारी"
+  },
+  {
+    "id": 134,
+    "topic": "Hindi Literature",
+    "question": "'बिहारी सतसई' किस कवि की रचना है?",
+    "options": [
+      "बिहारी",
+      "केशवदास",
+      "घनानंद",
+      "भूषण"
+    ],
+    "answer": 0,
+    "explanation": "बिहारी"
+  },
+  {
+    "id": 135,
+    "topic": "Hindi Literature",
+    "question": "आधुनिक हिंदी साहित्य के जनक (गद्य के) किसे माना जाता है?",
+    "options": [
+      "भारतेंदु हरिश्चंद्र",
+      "प्रेमचंद",
+      "महावीर प्रसाद द्विवेदी",
+      "जयशंकर प्रसाद"
+    ],
+    "answer": 0,
+    "explanation": "भारतेंदु हरिश्चंद्र"
+  },
+  {
+    "id": 136,
+    "topic": "Hindi Literature",
+    "question": "हिंदी उपन्यास सम्राट के नाम से किसे जाना जाता है?",
+    "options": [
+      "मुंशी प्रेमचंद",
+      "जयशंकर प्रसाद",
+      "निराला",
+      "महादेवी वर्मा"
+    ],
+    "answer": 0,
+    "explanation": "मुंशी प्रेमचंद"
+  }
+]

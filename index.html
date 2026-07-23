@@ -1,527 +1,127 @@
-<!DOCTYPE html>
-<html lang="hi" data-theme="light">
+<!doctype html>
+<html lang="hi">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="AP TET Paper-II(A) School Assistant Hindi Mock Test Platform - Fully Offline Computer Based Test (CBT) Portal.">
-  <title>AP TET Paper-II(A) School Assistant - Hindi CBT Mock Test</title>
-  
-  <!-- Modern Fonts for English & Devanagari Script -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+Devanagari:wght@400;500;600;700&display=swap" rel="stylesheet">
-  
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>आंध्र प्रदेश TET / DSC SA(II) हिंदी अभ्यास प्रश्न-पत्र (CBT Practice)</title>
+  <meta name="description" content="AP TET & DSC Paper-II(A) School Assistant Hindi Online Computer Based Test (CBT) Practice Platform with 136+ Questions, Instant Scoring & Answer Explanations.">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-  <!-- ==================== MAIN HEADER ==================== -->
-  <header class="app-header" id="mainHeader">
-    <div class="header-container">
-      <div class="brand-group" id="brandGroup" onclick="cbtEngine.goHome()" style="cursor: pointer;">
-        <img src="assets/logo.svg" alt="AP TET CBT Logo" class="brand-logo" id="appLogo">
-      </div>
-
-      <div class="header-controls">
-        <!-- Fullscreen Toggle -->
-        <button type="button" class="btn-icon" id="btnFullscreen" title="Toggle Fullscreen" aria-label="Toggle Fullscreen">
-          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M8 3H5a2 2 0 0 0-2 2v3m18 0V5a2 2 0 0 0-2-2h-3m0 18h3a2 2 0 0 0 2-2v-3M3 16v3a2 2 0 0 0 2 2h3"/></svg>
-        </button>
-        <!-- Dark Mode Toggle -->
-        <button type="button" class="btn-icon" id="btnThemeToggle" title="Toggle Dark/Light Mode" aria-label="Toggle Dark Mode">
-          <svg class="sun-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="5"/><path d="M12 1v2M12 21v2M4.22 4.22l1.42 1.42M18.36 18.36l1.42 1.42M1 12h2M21 12h2M4.22 19.78l1.42-1.42M18.36 5.64l1.42-1.42"/></svg>
-          <svg class="moon-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
-        </button>
-      </div>
+  <header>
+    <a href="#home" class="brand">
+      <b>AP</b>
+      <span>TET / DSC <small>Hindi SA(II) CBT</small></span>
+    </a>
+    <div id="headTools" hidden>
+      <strong id="timer">02:30:00</strong>
+      <button id="dark" aria-label="Toggle Dark Mode">◐</button>
     </div>
   </header>
 
-  <!-- ==================== HOME VIEW ==================== -->
-  <main class="view-container" id="homeView">
-    <section class="hero-banner">
-      <div class="hero-content">
-        <span class="badge-tag">Andhra Pradesh Teacher Eligibility Test (AP TET)</span>
-        <h1>Paper-II(A) School Assistant — Hindi</h1>
-        <p class="hero-subtitle">ऑनलाइन कंप्यूटर आधारित परीक्षा (CBT) मॉक टेस्ट पोर्टल | 100% Offline Compatible</p>
-        
-        <div class="hero-stats">
-          <div class="stat-pill">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-            <span>परीक्षा समय: 150 मिनट</span>
-          </div>
-          <div class="stat-pill">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
-            <span>विषय: हिंदी व्याकरण, साहित्य एवं शिक्षण शास्त्र</span>
-          </div>
-          <div class="stat-pill">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
-            <span>नेगेटिव मार्किंग: नहीं (No Negative Marking)</span>
-          </div>
+  <main>
+    <!-- Home Section -->
+    <section id="home">
+      <div class="hero">
+        <p>ANDHRA PRADESH TET / DSC — SCHOOL ASSISTANT (HINDI)</p>
+        <h1>Paper-II(A) <em>हिंदी अभ्यास</em> प्रश्न-पत्र</h1>
+        <span>अभ्यास प्रश्न-पत्र (Child Development, Hindi Grammar & Literature) कंप्यूटर आधारित परीक्षा (CBT) माहौल में हल करें।</span>
+      </div>
+
+      <div class="title">
+        <div>
+          <p>AVAILABLE PRACTICE MODULES</p>
+          <h2>मॉडयूल / प्रश्न-पत्र चुनें</h2>
         </div>
       </div>
+
+      <div id="cards" class="cards"></div>
     </section>
 
-    <!-- Resume active session notification banner -->
-    <div id="resumeBanner" class="resume-banner hidden">
-      <div class="resume-content">
-        <div class="resume-info">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-          <div>
-            <strong>अपूर्ण परीक्षा का सत्र मिला! (Active Unsaved Session Found)</strong>
-            <p id="resumeBannerText">आपकी पिछली परीक्षा का समय और उत्तर सुरक्षित हैं। क्या आप जारी रखना चाहते हैं?</p>
-          </div>
-        </div>
-        <div class="resume-actions">
-          <button type="button" class="btn btn-primary btn-sm" id="btnResumeSession">परीक्षा जारी रखें (Resume)</button>
-          <button type="button" class="btn btn-outline btn-sm" id="btnDiscardSession">नया टेस्ट शुरू करें</button>
-        </div>
-      </div>
-    </div>
-
-    <!-- Available Mock Test Cards -->
-    <section class="test-cards-section">
-      <h2 class="section-title">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
-        उपलब्ध मॉक टेस्ट (Available Mock Tests)
-      </h2>
-
-      <div class="mock-grid">
-        <!-- Mock Test 1 -->
-        <div class="mock-card" onclick="cbtEngine.startMock('data/mock1.json', 'Mock Test 1 — AP TET Hindi Full Model Paper')">
-          <div class="card-badge">माडल टेस्ट 1</div>
-          <h3 class="card-title">Mock Test 1</h3>
-          <p class="card-desc">AP TET Hindi Full Model Paper (व्याकरण, साहित्य का इतिहास एवं भाषा शिक्षण शास्त्र)</p>
-          <div class="card-meta">
-            <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 150 मिनट</span>
-            <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg> बहुविकल्पीय प्रश्न</span>
-          </div>
-          <button type="button" class="btn btn-primary btn-block">परीक्षा प्रारंभ करें (Start Test)</button>
-        </div>
-
-        <!-- Mock Test 2 -->
-        <div class="mock-card" onclick="cbtEngine.startMock('data/mock2.json', 'Mock Test 2 — Hindi Grammar & Literature Special')">
-          <div class="card-badge green">माडल टेस्ट 2</div>
-          <h3 class="card-title">Mock Test 2</h3>
-          <p class="card-desc">विशेष हिंदी व्याकरण, संधि, समास, अलंकार, एवं प्रमुख साहित्यकार व रचनाएँ</p>
-          <div class="card-meta">
-            <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 150 मिनट</span>
-            <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg> बहुविकल्पीय प्रश्न</span>
-          </div>
-          <button type="button" class="btn btn-primary btn-block">परीक्षा प्रारंभ करें (Start Test)</button>
-        </div>
-
-        <!-- Mock Test 3 -->
-        <div class="mock-card" onclick="cbtEngine.startMock('data/mock3.json', 'Mock Test 3 — Hindi Pedagogy & Comprehension')">
-          <div class="card-badge orange">माडल टेस्ट 3</div>
-          <h3 class="card-title">Mock Test 3</h3>
-          <p class="card-desc">भाषा शिक्षण शास्त्र, शिक्षण विधियां, दृश्य-श्रव्य सामग्री एवं मूल्यांकन पद्धतियां</p>
-          <div class="card-meta">
-            <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 150 मिनट</span>
-            <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg> बहुविकल्पीय प्रश्न</span>
-          </div>
-          <button type="button" class="btn btn-primary btn-block">परीक्षा प्रारंभ करें (Start Test)</button>
-        </div>
-
-        <!-- Previous Year Paper -->
-        <div class="mock-card" onclick="cbtEngine.startMock('data/previous_year_2024.json', 'Previous Year Paper 2024 — AP TET SA Hindi')">
-          <div class="card-badge purple">गत वर्ष प्रश्न पत्र</div>
-          <h3 class="card-title">Previous Year Paper (2024)</h3>
-          <p class="card-desc">AP TET Paper-II(A) School Assistant Hindi 2024 में पूछे गए वास्तविक प्रश्न</p>
-          <div class="card-meta">
-            <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg> 150 मिनट</span>
-            <span><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 11l3 3L22 4"/><path d="M21 12v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h11"/></svg> वास्तविक परीक्षा प्रश्न</span>
-          </div>
-          <button type="button" class="btn btn-primary btn-block">परीक्षा प्रारंभ करें (Start Test)</button>
-        </div>
-      </div>
-    </section>
-
-    <!-- Custom JSON Upload Section -->
-    <section class="upload-section">
-      <div class="upload-card">
-        <div class="upload-icon">
-          <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/></svg>
+    <!-- Exam Section -->
+    <section id="exam" hidden>
+      <div class="examtop">
+        <div>
+          <b id="examTitle"></b>
+          <small id="progressText"></small>
         </div>
         <div>
-          <h3>कस्टम JSON टेस्ट फाइल अपलोड करें (Load Custom Mock JSON)</h3>
-          <p>अगर आपके पास कोई नया JSON मॉक टेस्ट फाइल है, तो उसे यहाँ अपलोड करके सीधे ऑफलाइन परीक्षा दें।</p>
+          <i><span id="progress"></span></i>
         </div>
-        <div class="upload-btn-wrapper">
-          <input type="file" id="customJsonInput" accept=".json" onchange="cbtEngine.handleFileUpload(event)">
-          <label for="customJsonInput" class="btn btn-outline">फाइल चुनें (Choose File)</label>
-        </div>
+        <button id="full">Fullscreen</button>
+      </div>
+
+      <div class="layout">
+        <article>
+          <div class="meta">
+            <b id="qnum"></b>
+            <small id="topic"></small>
+          </div>
+          <h2 id="question"></h2>
+          <fieldset id="options"></fieldset>
+          <div class="nav">
+            <button id="prev">← Previous</button>
+            <button id="mark">☆ Mark for Review</button>
+            <button id="next" class="primary">Save & Next →</button>
+          </div>
+        </article>
+
+        <aside>
+          <div class="asidehead">
+            <h2>Question Palette</h2>
+            <button id="clear">Clear selection</button>
+          </div>
+          <div id="palette" class="palette"></div>
+          <div class="legend">
+            <span><i></i>Unvisited</span>
+            <span><i class="blue"></i>Current</span>
+            <span><i class="green"></i>Answered</span>
+            <span><i class="orange"></i>Review</span>
+          </div>
+          <button id="submit" class="submit">Submit Test</button>
+        </aside>
       </div>
     </section>
 
-    <!-- General Instructions -->
-    <section class="instructions-section">
-      <h3>
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="12" y1="16" x2="12" y2="12"/><line x1="12" y1="8" x2="12.01" y2="8"/></svg>
-        परीक्षा निर्देश (Exam Instructions):
-      </h3>
-      <ul>
-        <li>कुल समय: <strong>150 मिनट</strong> | प्रत्येक प्रश्न 1 अंक का है।</li>
-        <li>प्रश्न पैलेट में रंगों का अर्थ:
-          <span class="inline-badge gray">स्लेटी: उत्तर नहीं दिया/Not Visited</span>
-          <span class="inline-badge green">हरा: उत्तर दिया/Answered</span>
-          <span class="inline-badge orange">नारंगी: समीक्षा के लिए चिन्हित/Marked for Review</span>
-          <span class="inline-badge purple">बैंगनी: उत्तरित एवं समीक्षार्थ/Answered & Marked</span>
-        </li>
-        <li>आप <strong>Keyboard Shortcuts</strong> का उपयोग कर सकते हैं: [N] अगला प्रश्न, [P] पिछला प्रश्न, [1-4] विकल्प चयन, [M] समीक्षार्थ चिन्हित करें।</li>
-      </ul>
+    <!-- Results Section -->
+    <section id="results" hidden>
+      <div class="hero result">
+        <p>EXAM RESULT SUMMARY</p>
+        <h1>परिणाम एवं समीक्षा</h1>
+        <div id="summary"></div>
+      </div>
+
+      <div id="stats" class="stats"></div>
+
+      <div class="resultbuttons">
+        <button id="back">← Back to Tests</button>
+        <button id="print" class="primary">🖨 Print Score Card</button>
+      </div>
+
+      <div class="title">
+        <div>
+          <p>DETAILED ANSWER KEY & EXPLANATIONS</p>
+          <h2>उत्तर कुंजी एवं व्याख्या</h2>
+        </div>
+      </div>
+
+      <div id="review"></div>
     </section>
   </main>
 
-  <!-- ==================== CBT EXAM VIEW ==================== -->
-  <main class="view-container hidden" id="examView">
-    <!-- Top Sub-Header Bar (TCS iON Style) -->
-    <div class="exam-sub-header">
-      <div class="exam-title-badge">
-        <span class="live-dot"></span>
-        <span id="activeMockTitle">AP TET Paper-II(A) School Assistant Hindi — Mock Test</span>
-      </div>
-
-      <!-- Candidate Quick Profile Bar -->
-      <div class="candidate-quick-bar">
-        <img src="assets/candidate_avatar.svg" alt="Candidate" class="cand-avatar-sm">
-        <div class="cand-details-sm">
-          <span class="cand-name">परीक्षार्थी / Candidate</span>
-          <span class="cand-id">Roll: AP-TET-2026-SAH</span>
-        </div>
-      </div>
-
-      <!-- Timer Box -->
-      <div class="timer-box" id="timerBox">
-        <div class="timer-label">शेष समय / Time Left</div>
-        <div class="timer-clock" id="timerDisplay">02:30:00</div>
-      </div>
-    </div>
-
-    <!-- Exam Workspace Grid -->
-    <div class="cbt-workspace">
-      <!-- Left Column: Question Area -->
-      <div class="question-column">
-        <!-- Question Meta Header -->
-        <div class="question-meta-bar">
-          <div class="q-number-box">
-            <span class="q-label">प्रश्न संख्या (Question No.)</span>
-            <span class="q-num" id="currentQNum">01</span>
-          </div>
-
-          <div class="q-tags">
-            <span class="tag-topic" id="currentQTopic">हिंदी व्याकरण</span>
-            <span class="tag-marks">+1.00 / -0.00</span>
-          </div>
-
-          <button type="button" class="btn-bookmark" id="btnBookmark" onclick="cbtEngine.toggleBookmark()" title="Bookmark Question">
-            <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
-            <span id="bookmarkText">बुकमार्क</span>
-          </button>
-        </div>
-
-        <!-- Question Content Box -->
-        <div class="question-content-card">
-          <div class="question-text" id="questionText">
-            प्रश्न लोड हो रहा है... (Loading Question...)
-          </div>
-
-          <!-- Options Container -->
-          <div class="options-group" id="optionsGroup">
-            <!-- Rendered dynamically -->
-          </div>
-        </div>
-
-        <!-- Action Control Buttons (Bottom Bar) -->
-        <div class="action-bar">
-          <div class="left-actions">
-            <button type="button" class="btn btn-outline-warning" id="btnMarkReview" onclick="cbtEngine.markForReview()">
-              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg>
-              Mark for Review & Next
-            </button>
-            <button type="button" class="btn btn-outline-secondary" id="btnClearResponse" onclick="cbtEngine.clearResponse()">
-              Clear Response
-            </button>
-          </div>
-
-          <div class="right-actions">
-            <button type="button" class="btn btn-outline" id="btnPrevQ" onclick="cbtEngine.prevQuestion()">
-              &laquo; Previous
-            </button>
-            <button type="button" class="btn btn-success" id="btnSaveNext" onclick="cbtEngine.saveAndNext()">
-              Save & Next &raquo;
-            </button>
-            <button type="button" class="btn btn-danger" id="btnSubmitExam" onclick="cbtEngine.confirmSubmit()">
-              Submit Test
-            </button>
-          </div>
-        </div>
-      </div>
-
-      <!-- Right Column: Candidate & Palette Sidebar -->
-      <aside class="palette-sidebar" id="paletteSidebar">
-        <!-- Student Card -->
-        <div class="candidate-card">
-          <img src="assets/candidate_avatar.svg" alt="Candidate Avatar" class="cand-avatar">
-          <div class="cand-info">
-            <span class="cand-title">परीक्षार्थी नाम (Candidate):</span>
-            <strong class="cand-name-lg">School Assistant Aspirant</strong>
-            <span class="cand-subject">विषय: AP TET Paper-II(A) Hindi</span>
-          </div>
-        </div>
-
-        <!-- Legend Palette Box -->
-        <div class="legend-box">
-          <h4 class="legend-title">प्रश्न स्थिति (Question Legend)</h4>
-          <div class="legend-grid">
-            <div class="legend-item">
-              <span class="status-box answered" id="legendAnsweredCount">0</span>
-              <span>Answered</span>
-            </div>
-            <div class="legend-item">
-              <span class="status-box not-answered" id="legendNotAnsweredCount">0</span>
-              <span>Not Answered</span>
-            </div>
-            <div class="legend-item">
-              <span class="status-box not-visited" id="legendNotVisitedCount">0</span>
-              <span>Not Visited</span>
-            </div>
-            <div class="legend-item">
-              <span class="status-box marked" id="legendMarkedCount">0</span>
-              <span>Marked for Review</span>
-            </div>
-            <div class="legend-item span-2">
-              <span class="status-box answered-marked" id="legendAnsMarkedCount">0</span>
-              <span>Answered & Marked for Review</span>
-            </div>
-          </div>
-        </div>
-
-        <!-- Palette Filter & Grid -->
-        <div class="palette-container">
-          <div class="palette-header">
-            <h4>Question Palette</h4>
-            <div class="palette-filter">
-              <select id="paletteFilterSelect" onchange="cbtEngine.filterPalette(this.value)">
-                <option value="all">सभी प्रश्न (All)</option>
-                <option value="answered">उत्तरित (Answered)</option>
-                <option value="unanswered">अनुत्तरित (Unanswered)</option>
-                <option value="marked">समीक्षार्थ (Marked)</option>
-              </select>
-            </div>
-          </div>
-
-          <!-- Question Numbers Grid -->
-          <div class="palette-grid" id="paletteGrid">
-            <!-- Palette buttons rendered dynamically -->
-          </div>
-        </div>
-      </aside>
-    </div>
-
-    <!-- Mobile Drawer Toggle Floating Button -->
-    <button type="button" class="btn-palette-toggle" id="btnTogglePalette" onclick="cbtEngine.toggleMobilePalette()">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/></svg>
-      <span>प्रश्न पैलेट</span>
-    </button>
-  </main>
-
-  <!-- ==================== SUBMIT CONFIRMATION MODAL ==================== -->
-  <div class="modal-overlay hidden" id="submitModal">
-    <div class="modal-card">
-      <div class="modal-header">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#f59e0b" stroke-width="2"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
-        <h3>क्या आप निश्चित रूप से परीक्षा जमा (Submit) करना चाहते हैं?</h3>
-      </div>
-      
-      <p class="modal-desc">परीक्षा सबमिट करने के बाद आप अपने उत्तरों को बदल नहीं पाएंगे।</p>
-
-      <div class="modal-summary-table">
-        <div class="summary-row">
-          <span>कुल प्रश्न (Total Questions):</span>
-          <strong id="modalTotalQ">0</strong>
-        </div>
-        <div class="summary-row text-success">
-          <span>उत्तरित प्रश्न (Answered):</span>
-          <strong id="modalAnsweredQ">0</strong>
-        </div>
-        <div class="summary-row text-danger">
-          <span>अनुत्तरित प्रश्न (Unanswered):</span>
-          <strong id="modalUnansweredQ">0</strong>
-        </div>
-        <div class="summary-row text-warning">
-          <span>समीक्षार्थ चिन्हित (Marked for Review):</span>
-          <strong id="modalMarkedQ">0</strong>
-        </div>
-        <div class="summary-row text-muted">
-          <span>शेष समय (Time Remaining):</span>
-          <strong id="modalTimeLeft">00:00:00</strong>
-        </div>
-      </div>
-
-      <div class="modal-actions">
-        <button type="button" class="btn btn-outline" onclick="cbtEngine.closeSubmitModal()">नहीं, परीक्षा जारी रखें (No, Resume)</button>
-        <button type="button" class="btn btn-danger" onclick="cbtEngine.finalSubmitExam()">हाँ, सबमिट करें (Yes, Final Submit)</button>
-      </div>
-    </div>
-  </div>
-
-  <!-- ==================== RESULT VIEW ==================== -->
-  <main class="view-container hidden" id="resultView">
-    <div class="result-header-card" id="resultHeaderCard">
-      <div class="status-badge-lg" id="resultPassBadge">उत्तीर्ण (PASSED)</div>
-      <h2>AP TET Paper-II(A) School Assistant Hindi — Scorecard</h2>
-      <p id="resultMockTitle">Mock Test Performance Analysis</p>
-
-      <div class="score-main-display">
-        <div class="score-circle">
-          <span class="score-val" id="resultScore">0</span>
-          <span class="score-max" id="resultMaxScore">/ 0</span>
-        </div>
-        <div class="score-meta">
-          <div class="percentage-text" id="resultPercentage">0%</div>
-          <span class="qualify-status" id="resultQualifyText">Qualifying Criteria: OC (60%), BC (50%), SC/ST/PH (40%)</span>
-        </div>
-      </div>
-    </div>
-
-    <!-- Quick Stats Grid -->
-    <div class="result-stats-grid">
-      <div class="stat-card">
-        <div class="stat-icon blue">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/></svg>
-        </div>
-        <div class="stat-data">
-          <span class="stat-label">कुल प्रश्न (Total Questions)</span>
-          <strong class="stat-num" id="resTotalQ">0</strong>
-        </div>
-      </div>
-
-      <div class="stat-card">
-        <div class="stat-icon green">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="20 6 9 17 4 12"/></svg>
-        </div>
-        <div class="stat-data">
-          <span class="stat-label">सही उत्तर (Correct)</span>
-          <strong class="stat-num text-success" id="resCorrectQ">0</strong>
-        </div>
-      </div>
-
-      <div class="stat-card">
-        <div class="stat-icon red">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
-        </div>
-        <div class="stat-data">
-          <span class="stat-label">गलत उत्तर (Wrong)</span>
-          <strong class="stat-num text-danger" id="resWrongQ">0</strong>
-        </div>
-      </div>
-
-      <div class="stat-card">
-        <div class="stat-icon gray">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><line x1="8" y1="12" x2="16" y2="12"/></svg>
-        </div>
-        <div class="stat-data">
-          <span class="stat-label">अनुत्तरित (Unanswered)</span>
-          <strong class="stat-num text-muted" id="resUnansweredQ">0</strong>
-        </div>
-      </div>
-
-      <div class="stat-card">
-        <div class="stat-icon purple">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
-        </div>
-        <div class="stat-data">
-          <span class="stat-label">समय लिया (Time Taken)</span>
-          <strong class="stat-num" id="resTimeTaken">00:00</strong>
-        </div>
-      </div>
-
-      <div class="stat-card">
-        <div class="stat-icon orange">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
-        </div>
-        <div class="stat-data">
-          <span class="stat-label">सटीकता (Accuracy %)</span>
-          <strong class="stat-num text-warning" id="resAccuracy">0%</strong>
-        </div>
-      </div>
-    </div>
-
-    <!-- Category / Topic-wise Breakdown Table -->
-    <div class="table-card">
-      <h3>
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="20" x2="18" y2="10"/><line x1="12" y1="20" x2="12" y2="4"/><line x1="6" y1="20" x2="6" y2="14"/></svg>
-        विषयवार प्रदर्शन विश्लेषण (Topic-wise Performance Breakdown)
-      </h3>
-      <div class="table-responsive">
-        <table class="report-table">
-          <thead>
-            <tr>
-              <th>विषय (Topic)</th>
-              <th>कुल प्रश्न</th>
-              <th>उत्तरित</th>
-              <th>सही</th>
-              <th>गलत</th>
-              <th>सटीकता %</th>
-            </tr>
-          </thead>
-          <tbody id="topicBreakdownTbody">
-            <!-- Rendered dynamically -->
-          </tbody>
-        </table>
-      </div>
-    </div>
-
-    <!-- Result View Action Buttons -->
-    <div class="result-actions">
-      <button type="button" class="btn btn-primary btn-lg" onclick="cbtEngine.showReviewMode()">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M1 12s4-8 11-8 11 8 11 8-4 8-11 8-11-8-11-8z"/><circle cx="12" cy="12" r="3"/></svg>
-        विस्तृत उत्तर समीक्षा (Detailed Answer Review)
-      </button>
-      <button type="button" class="btn btn-outline btn-lg" onclick="window.print()">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="6 9 6 2 18 2 18 9"/><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"/><rect x="6" y="14" width="12" height="8"/></svg>
-        स्कोरकार्ड प्रिंट करें (Print Scorecard)
-      </button>
-      <button type="button" class="btn btn-outline btn-lg" onclick="cbtEngine.goHome()">
-        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg>
-        मुख्य पृष्ठ पर जाएँ (Home)
-      </button>
-    </div>
-  </main>
-
-  <!-- ==================== DETAILED REVIEW VIEW ==================== -->
-  <main class="view-container hidden" id="reviewView">
-    <div class="review-header">
+  <!-- Submit Confirmation Dialog -->
+  <dialog id="dialog">
+    <form method="dialog">
+      <h2>Submit Test?</h2>
+      <p>Are you sure you want to finish and submit your exam? You can return and review your answers before submitting.</p>
       <div>
-        <h2>AP TET Paper-II(A) Hindi — विस्तृत उत्तर समीक्षा (Detailed Review)</h2>
-        <p>प्रत्येक प्रश्न का सही उत्तर एवं स्पष्टीकरण नीचे देखें।</p>
+        <button value="cancel">No, Continue Test</button>
+        <button id="confirm" value="ok" class="submit">Yes, Submit</button>
       </div>
+    </form>
+  </dialog>
 
-      <!-- Filter review options -->
-      <div class="review-filter-bar">
-        <button type="button" class="btn btn-sm btn-outline active" onclick="cbtEngine.filterReview('all', this)">सभी प्रश्न (All)</button>
-        <button type="button" class="btn btn-sm btn-outline text-success" onclick="cbtEngine.filterReview('correct', this)">केवल सही (Correct)</button>
-        <button type="button" class="btn btn-sm btn-outline text-danger" onclick="cbtEngine.filterReview('wrong', this)">केवल गलत (Wrong)</button>
-        <button type="button" class="btn btn-sm btn-outline text-muted" onclick="cbtEngine.filterReview('unattempted', this)">अनुत्तरित (Unattempted)</button>
-      </div>
-    </div>
-
-    <!-- Review Questions Stream Container -->
-    <div class="review-stream" id="reviewStream">
-      <!-- Rendered dynamically -->
-    </div>
-
-    <div class="review-footer-actions">
-      <button type="button" class="btn btn-primary" onclick="cbtEngine.showResultView()">&laquo; परिणाम पृष्ठ पर वापस जाएँ</button>
-      <button type="button" class="btn btn-outline" onclick="cbtEngine.goHome()">मुख्य पृष्ठ (Home)</button>
-    </div>
-  </main>
-
-  <!-- Global Footer -->
-  <footer class="app-footer">
-    <p>AP TET Paper-II(A) School Assistant Hindi CBT Platform &copy; 2026. 100% Offline Examination Engine.</p>
-  </footer>
-
+  <div id="toast" role="status"></div>
   <script src="app.js"></script>
 </body>
 </html>

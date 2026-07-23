@@ -1,0 +1,782 @@
+[
+  {
+    "id": 61,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "हिंदी वर्णमाला में स्वरों की संख्या कितनी है?",
+    "options": [
+      "10",
+      "11",
+      "13",
+      "14"
+    ],
+    "answer": 1,
+    "explanation": "11"
+  },
+  {
+    "id": 62,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "हिंदी वर्णमाला में व्यंजनों की कुल संख्या कितनी मानी जाती है?",
+    "options": [
+      "33",
+      "35",
+      "38",
+      "41"
+    ],
+    "answer": 2,
+    "explanation": "38 (कुछ विद्वान 33 मूल व्यंजन मानते हैं)"
+  },
+  {
+    "id": 63,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'अ, इ, उ' किस प्रकार के स्वर हैं?",
+    "options": [
+      "दीर्घ स्वर",
+      "ह्रस्व स्वर",
+      "प्लुत स्वर",
+      "संयुक्त स्वर"
+    ],
+    "answer": 1,
+    "explanation": "ह्रस्व स्वर"
+  },
+  {
+    "id": 64,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'क वर्ग' के व्यंजन कौन-से हैं?",
+    "options": [
+      "क, ख, ग, घ, ङ",
+      "च, छ, ज, झ, ञ",
+      "ट, ठ, ड, ढ, ण",
+      "त, थ, द, ध, न"
+    ],
+    "answer": 0,
+    "explanation": "क, ख, ग, घ, ङ"
+  },
+  {
+    "id": 65,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'विद्या + आलय' की संधि से बनेगा?",
+    "options": [
+      "विद्यालय",
+      "विद्यायालय",
+      "विद्यालाय",
+      "विद्यालय्य"
+    ],
+    "answer": 0,
+    "explanation": "विद्यालय"
+  },
+  {
+    "id": 66,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'सूर्य + उदय' में कौन-सी संधि है?",
+    "options": [
+      "दीर्घ संधि",
+      "गुण संधि",
+      "वृद्धि संधि",
+      "यण संधि"
+    ],
+    "answer": 1,
+    "explanation": "गुण संधि"
+  },
+  {
+    "id": 67,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'मनोहर' शब्द में कौन-सी संधि है?",
+    "options": [
+      "स्वर संधि",
+      "व्यंजन संधि",
+      "विसर्ग संधि",
+      "कोई नहीं"
+    ],
+    "answer": 2,
+    "explanation": "विसर्ग संधि"
+  },
+  {
+    "id": 68,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'राजा का पुत्र' का समास होगा?",
+    "options": [
+      "तत्पुरुष समास",
+      "द्वंद्व समास",
+      "बहुव्रीहि समास",
+      "कर्मधारय समास"
+    ],
+    "answer": 0,
+    "explanation": "तत्पुरुष समास"
+  },
+  {
+    "id": 69,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'दाल-भात' किस समास का उदाहरण है?",
+    "options": [
+      "द्वंद्व समास",
+      "तत्पुरुष समास",
+      "अव्ययीभाव समास",
+      "बहुव्रीहि समास"
+    ],
+    "answer": 0,
+    "explanation": "द्वंद्व समास"
+  },
+  {
+    "id": 70,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'नीलकंठ' (जिसका कंठ नीला है, अर्थात शिव) में कौन-सा समास है?",
+    "options": [
+      "कर्मधारय",
+      "बहुव्रीहि",
+      "द्विगु",
+      "तत्पुरुष"
+    ],
+    "answer": 1,
+    "explanation": "बहुव्रीहि"
+  },
+  {
+    "id": 71,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'चतुर्भुज' शब्द में कौन-सा समास है?",
+    "options": [
+      "द्विगु समास",
+      "कर्मधारय समास",
+      "द्वंद्व समास",
+      "अव्ययीभाव समास"
+    ],
+    "answer": 0,
+    "explanation": "द्विगु समास"
+  },
+  {
+    "id": 72,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'यथाशक्ति' शब्द किस समास का उदाहरण है?",
+    "options": [
+      "अव्ययीभाव समास",
+      "तत्पुरुष समास",
+      "द्वंद्व समास",
+      "बहुव्रीहि समास"
+    ],
+    "answer": 0,
+    "explanation": "अव्ययीभाव समास"
+  },
+  {
+    "id": 73,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'नीलकमल' में कौन-सा समास है?",
+    "options": [
+      "कर्मधारय समास",
+      "बहुव्रीहि समास",
+      "द्वंद्व समास",
+      "द्विगु समास"
+    ],
+    "answer": 0,
+    "explanation": "कर्मधारय समास"
+  },
+  {
+    "id": 74,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'पुस्तक' शब्द का पर्यायवाची नहीं है?",
+    "options": [
+      "ग्रंथ",
+      "किताब",
+      "पोथी",
+      "लेखनी"
+    ],
+    "answer": 3,
+    "explanation": "लेखनी"
+  },
+  {
+    "id": 75,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'सूर्य' का पर्यायवाची शब्द नहीं है?",
+    "options": [
+      "दिनकर",
+      "भास्कर",
+      "रजनीश",
+      "दिवाकर"
+    ],
+    "answer": 2,
+    "explanation": "रजनीश (यह चंद्रमा का पर्यायवाची है)"
+  },
+  {
+    "id": 76,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'आकाश' का पर्यायवाची है?",
+    "options": [
+      "गगन, नभ, अंबर",
+      "सरिता, नदी",
+      "पर्वत, गिरि",
+      "वन, अरण्य"
+    ],
+    "answer": 0,
+    "explanation": "गगन, नभ, अंबर"
+  },
+  {
+    "id": 77,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'अंधकार' का विलोम शब्द है?",
+    "options": [
+      "प्रकाश",
+      "तमस",
+      "रात्रि",
+      "कालिमा"
+    ],
+    "answer": 0,
+    "explanation": "प्रकाश"
+  },
+  {
+    "id": 78,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'निंदा' का विलोम शब्द है?",
+    "options": [
+      "स्तुति",
+      "आलोचना",
+      "घृणा",
+      "विरोध"
+    ],
+    "answer": 0,
+    "explanation": "स्तुति"
+  },
+  {
+    "id": 79,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'जड़' का विलोम है?",
+    "options": [
+      "चेतन",
+      "स्थिर",
+      "कठोर",
+      "भारी"
+    ],
+    "answer": 0,
+    "explanation": "चेतन"
+  },
+  {
+    "id": 80,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'गुरु' शब्द का तद्भव रूप है?",
+    "options": [
+      "गुरु",
+      "गोर",
+      "गुरुआ",
+      "गुरुजी"
+    ],
+    "answer": 0,
+    "explanation": "'गुरु' मूलतः तत्सम है; तद्भव उदाहरण हेतु 'अग्नि→आग' उपयुक्त है।"
+  },
+  {
+    "id": 81,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'दुग्ध' शब्द का तद्भव रूप क्या है?",
+    "options": [
+      "दूध",
+      "दुधा",
+      "दुग्धा",
+      "दूधिया"
+    ],
+    "answer": 0,
+    "explanation": "दूध"
+  },
+  {
+    "id": 82,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'हस्त' का तद्भव रूप है?",
+    "options": [
+      "हाथ",
+      "हस्ता",
+      "हथा",
+      "हस्ति"
+    ],
+    "answer": 0,
+    "explanation": "हाथ"
+  },
+  {
+    "id": 83,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'चंद्र' शब्द का तद्भव रूप है?",
+    "options": [
+      "चाँद",
+      "चंदा",
+      "चंद्रमा",
+      "चंद्री"
+    ],
+    "answer": 0,
+    "explanation": "चाँद"
+  },
+  {
+    "id": 84,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'प्र' उपसर्ग से बना शब्द है?",
+    "options": [
+      "प्रयोग",
+      "संयोग",
+      "वियोग",
+      "अनुयोग"
+    ],
+    "answer": 0,
+    "explanation": "प्रयोग"
+  },
+  {
+    "id": 85,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'सु' उपसर्ग से बना शब्द है?",
+    "options": [
+      "सुयोग",
+      "दुर्योग",
+      "वियोग",
+      "प्रयोग"
+    ],
+    "answer": 0,
+    "explanation": "सुयोग"
+  },
+  {
+    "id": 86,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'वाला' प्रत्यय से बना शब्द है?",
+    "options": [
+      "दूधवाला",
+      "दूधिया",
+      "दुग्धिक",
+      "दुग्धीय"
+    ],
+    "answer": 0,
+    "explanation": "दूधवाला"
+  },
+  {
+    "id": 87,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'ता' प्रत्यय लगाकर बनने वाला शब्द है?",
+    "options": [
+      "मानवता",
+      "मानवीय",
+      "मानवीकरण",
+      "मानवत्व"
+    ],
+    "answer": 0,
+    "explanation": "मानवता"
+  },
+  {
+    "id": 88,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'लड़का पढ़ता है' वाक्य में लिंग है?",
+    "options": [
+      "पुल्लिंग",
+      "स्त्रीलिंग",
+      "उभयलिंग",
+      "नपुंसकलिंग"
+    ],
+    "answer": 0,
+    "explanation": "पुल्लिंग"
+  },
+  {
+    "id": 89,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "हिंदी में कारक की कुल संख्या मानी जाती है?",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": 2,
+    "explanation": "8"
+  },
+  {
+    "id": 90,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'राम ने पत्र लिखा' वाक्य में 'ने' किस कारक का चिह्न है?",
+    "options": [
+      "कर्ता कारक",
+      "कर्म कारक",
+      "करण कारक",
+      "संप्रदान कारक"
+    ],
+    "answer": 0,
+    "explanation": "कर्ता कारक"
+  },
+  {
+    "id": 91,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'माँ ने बच्चे को खिलौना दिया' में 'को' किस कारक का चिह्न है?",
+    "options": [
+      "कर्म/संप्रदान कारक",
+      "करण कारक",
+      "अपादान कारक",
+      "संबंध कारक"
+    ],
+    "answer": 0,
+    "explanation": "कर्म/संप्रदान कारक"
+  },
+  {
+    "id": 92,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'पेड़ से पत्ता गिरा' वाक्य में 'से' किस कारक का उदाहरण है?",
+    "options": [
+      "अपादान कारक",
+      "करण कारक",
+      "कर्म कारक",
+      "अधिकरण कारक"
+    ],
+    "answer": 0,
+    "explanation": "अपादान कारक"
+  },
+  {
+    "id": 93,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'लड़का घर में है' में 'में' किस कारक का चिह्न है?",
+    "options": [
+      "अधिकरण कारक",
+      "संबंध कारक",
+      "संबोधन कारक",
+      "कर्म कारक"
+    ],
+    "answer": 0,
+    "explanation": "अधिकरण कारक"
+  },
+  {
+    "id": 94,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "वाक्य शुद्ध करें: \"मुझे यह पुस्तक अच्छी लगी\" — इस वाक्य में कोई त्रुटि नहीं, लेकिन अशुद्ध वाक्य कौन-सा है?",
+    "options": [
+      "मुझे यह पुस्तक अच्छी लगी",
+      "मैं यह पुस्तक अच्छी लगा",
+      "मुझको यह पुस्तक पसंद है",
+      "मुझे यह पुस्तक पसंद आई"
+    ],
+    "answer": 1,
+    "explanation": "मैं यह पुस्तक अच्छी लगा (त्रुटिपूर्ण वाक्य)"
+  },
+  {
+    "id": 95,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "निम्न में शुद्ध वाक्य है?",
+    "options": [
+      "वह घर गया",
+      "वह घर को गया",
+      "वह घर पे गया",
+      "वह घर में गया"
+    ],
+    "answer": 0,
+    "explanation": "वह घर गया"
+  },
+  {
+    "id": 96,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "पूर्ण विराम चिह्न (।) का प्रयोग होता है?",
+    "options": [
+      "प्रश्नवाचक वाक्य के अंत में",
+      "विस्मयादिबोधक वाक्य में",
+      "सामान्य वाक्य की समाप्ति पर",
+      "संबोधन में"
+    ],
+    "answer": 2,
+    "explanation": "सामान्य वाक्य की समाप्ति पर"
+  },
+  {
+    "id": 97,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "अल्प विराम चिह्न (,) का प्रयोग किस स्थिति में होता है?",
+    "options": [
+      "वाक्य में छोटा विराम दिखाने हेतु",
+      "प्रश्न पूछने हेतु",
+      "आश्चर्य प्रकट करने हेतु",
+      "उद्धरण हेतु"
+    ],
+    "answer": 0,
+    "explanation": "वाक्य में छोटा विराम दिखाने हेतु"
+  },
+  {
+    "id": 98,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'रस' के कितने प्रकार माने गए हैं?",
+    "options": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "answer": 1,
+    "explanation": "9"
+  },
+  {
+    "id": 99,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "वीर रस का स्थायी भाव क्या है?",
+    "options": [
+      "उत्साह",
+      "शोक",
+      "भय",
+      "रति"
+    ],
+    "answer": 0,
+    "explanation": "उत्साह"
+  },
+  {
+    "id": 100,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "शृंगार रस का स्थायी भाव है?",
+    "options": [
+      "रति",
+      "हास",
+      "क्रोध",
+      "जुगुप्सा"
+    ],
+    "answer": 0,
+    "explanation": "रति"
+  },
+  {
+    "id": 101,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "करुण रस का स्थायी भाव है?",
+    "options": [
+      "शोक",
+      "उत्साह",
+      "रति",
+      "विस्मय"
+    ],
+    "answer": 0,
+    "explanation": "शोक"
+  },
+  {
+    "id": 102,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'उपमा अलंकार' का उदाहरण है?",
+    "options": [
+      "मुख चंद्रमा जैसा है",
+      "चरण-कमल",
+      "मानो मोती बरस रहे हों",
+      "कनक-कनक ते सौ गुनी"
+    ],
+    "answer": 0,
+    "explanation": "मुख चंद्रमा जैसा है"
+  },
+  {
+    "id": 103,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'रूपक अलंकार' में क्या होता है?",
+    "options": [
+      "उपमेय और उपमान में भेद बताया जाता है",
+      "उपमेय पर उपमान का आरोप होता है",
+      "एक ही शब्द की पुनरावृत्ति होती है",
+      "अतिशयोक्ति दिखाई जाती है"
+    ],
+    "answer": 1,
+    "explanation": "उपमेय पर उपमान का आरोप होता है"
+  },
+  {
+    "id": 104,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'चरण-कमल बंदौं हरि राई' में कौन-सा अलंकार है?",
+    "options": [
+      "रूपक अलंकार",
+      "उपमा अलंकार",
+      "उत्प्रेक्षा अलंकार",
+      "यमक अलंकार"
+    ],
+    "answer": 0,
+    "explanation": "रूपक अलंकार"
+  },
+  {
+    "id": 105,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "जब एक ही वर्ण या शब्द की आवृत्ति बार-बार हो तो कौन-सा अलंकार होता है?",
+    "options": [
+      "अनुप्रास अलंकार",
+      "यमक अलंकार",
+      "श्लेष अलंकार",
+      "उपमा अलंकार"
+    ],
+    "answer": 0,
+    "explanation": "अनुप्रास अलंकार"
+  },
+  {
+    "id": 106,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "जब एक शब्द के प्रयोग से अनेक अर्थ निकलते हैं, तो वह अलंकार कहलाता है?",
+    "options": [
+      "श्लेष अलंकार",
+      "यमक अलंकार",
+      "अनुप्रास अलंकार",
+      "उपमा अलंकार"
+    ],
+    "answer": 0,
+    "explanation": "श्लेष अलंकार"
+  },
+  {
+    "id": 107,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "दोहा किस प्रकार का छंद है?",
+    "options": [
+      "मात्रिक छंद",
+      "वर्णिक छंद",
+      "मुक्त छंद",
+      "गीति छंद"
+    ],
+    "answer": 0,
+    "explanation": "मात्रिक छंद"
+  },
+  {
+    "id": 108,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "दोहा छंद में कुल कितनी मात्राएँ होती हैं?",
+    "options": [
+      "24",
+      "28",
+      "30",
+      "26"
+    ],
+    "answer": 0,
+    "explanation": "24 (13-11 के क्रम में दो पंक्तियाँ)"
+  },
+  {
+    "id": 109,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "चौपाई छंद में प्रत्येक चरण में कितनी मात्राएँ होती हैं?",
+    "options": [
+      "16",
+      "24",
+      "13",
+      "11"
+    ],
+    "answer": 0,
+    "explanation": "16"
+  },
+  {
+    "id": 110,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'गागर में सागर भरना' मुहावरे का अर्थ है?",
+    "options": [
+      "कम शब्दों में बड़ी बात कहना",
+      "पानी भरना",
+      "परिश्रम करना",
+      "धोखा देना"
+    ],
+    "answer": 0,
+    "explanation": "कम शब्दों में बड़ी बात कहना"
+  },
+  {
+    "id": 111,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'नौ दो ग्यारह होना' मुहावरे का अर्थ है?",
+    "options": [
+      "भाग जाना",
+      "गिनती करना",
+      "खुश होना",
+      "झगड़ा करना"
+    ],
+    "answer": 0,
+    "explanation": "भाग जाना"
+  },
+  {
+    "id": 112,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'आँख का तारा होना' मुहावरे का अर्थ है?",
+    "options": [
+      "बहुत प्रिय होना",
+      "रोना",
+      "दुखी होना",
+      "देखना"
+    ],
+    "answer": 0,
+    "explanation": "बहुत प्रिय होना"
+  },
+  {
+    "id": 113,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'अपनी करनी पार उतरनी' लोकोक्ति का भाव है?",
+    "options": [
+      "अपने कर्मों का फल स्वयं भोगना",
+      "दूसरों की सहायता करना",
+      "नाव चलाना",
+      "परिश्रम व्यर्थ जाना"
+    ],
+    "answer": 0,
+    "explanation": "अपने कर्मों का फल स्वयं भोगना"
+  },
+  {
+    "id": 114,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'अंधे के हाथ बटेर लगना' लोकोक्ति का अर्थ है?",
+    "options": [
+      "बिना प्रयास के लाभ मिलना",
+      "परिश्रम से सफलता",
+      "असफलता मिलना",
+      "धोखा खाना"
+    ],
+    "answer": 0,
+    "explanation": "बिना प्रयास के लाभ मिलना"
+  },
+  {
+    "id": 115,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "संज्ञा के भेद कितने माने गए हैं?",
+    "options": [
+      "3",
+      "5",
+      "6",
+      "4"
+    ],
+    "answer": 1,
+    "explanation": "5 (व्यक्तिवाचक, जातिवाचक, भाववाचक, समूहवाचक, द्रव्यवाचक)"
+  },
+  {
+    "id": 116,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "सर्वनाम के कितने भेद होते हैं?",
+    "options": [
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "answer": 2,
+    "explanation": "6"
+  },
+  {
+    "id": 117,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "क्रिया के मुख्य भेद हैं?",
+    "options": [
+      "सकर्मक और अकर्मक",
+      "केवल सकर्मक",
+      "केवल अकर्मक",
+      "कोई भेद नहीं"
+    ],
+    "answer": 0,
+    "explanation": "सकर्मक और अकर्मक"
+  },
+  {
+    "id": 118,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "विशेषण के कितने भेद माने गए हैं?",
+    "options": [
+      "4",
+      "5",
+      "3",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "4 (गुणवाचक, संख्यावाचक, परिमाणवाचक, सार्वनामिक)"
+  },
+  {
+    "id": 119,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "काल के कितने प्रकार होते हैं?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "answer": 0,
+    "explanation": "3 (भूत, वर्तमान, भविष्यत)"
+  },
+  {
+    "id": 120,
+    "topic": "Hindi Grammar & Vocabulary",
+    "question": "'हिंदी' भाषा किस भाषा-परिवार से संबंधित है?",
+    "options": [
+      "भारोपीय",
+      "द्रविड़ परिवार",
+      "आस्ट्रिक परिवार",
+      "चीनी-तिब्बती परिवार"
+    ],
+    "answer": 0,
+    "explanation": "भारोपीय (इंडो-यूरोपीय) परिवार"
+  }
+]
